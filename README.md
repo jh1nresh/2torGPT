@@ -24,7 +24,7 @@
 
 | Coach | 狀態 | 啟動指令 |
 |---|---|---|
-| General English Speaking | active | `Start practice. Scenario: introducing my project.` |
+| General English Speaking | active | `Start practice.` |
 | TOEFL iBT 2026 Speaking | active | `Start TOEFL practice.` |
 | IELTS Speaking | reviewed / not session-tested | `Start IELTS practice.` |
 | JLPT | reviewed / not session-tested | `Start JLPT practice. Level: N3.` |

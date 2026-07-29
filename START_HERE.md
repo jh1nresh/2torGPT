@@ -55,6 +55,9 @@ JLPT：
 Start JLPT practice. Level: N3.
 ```
 
+啟動後，coach 會先簡短確認今天的練習目標。若 `sessions/` 已有同一
+coach 的紀錄，它會根據最新一份 Receipt 提出一個接續重點，再開始練習。
+
 ## 5. 結束並保存
 
 一般口說結束時說：

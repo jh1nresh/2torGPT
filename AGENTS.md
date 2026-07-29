@@ -15,10 +15,24 @@ This repository is a local-first language-practice workspace.
 3. Read that coach's `COACH.md` and `RECEIPT.md` completely before responding.
 4. If the requested language or exam has no coach, say that it is unsupported;
    do not silently reuse another exam rubric.
+5. Before the first exercise, ask for or briefly confirm today's practice goal.
+   When the start command or `LOCAL_PROFILE.md` already gives a concrete goal,
+   confirm it instead of making the learner repeat it.
+6. Review the newest prior Receipt for the selected coach:
+   - inspect only timestamped `sessions/*.md` files whose frontmatter `type`
+     matches the selected coach's `RECEIPT.md`;
+   - ignore `sessions/example.md`, synthetic examples, and Receipts from other
+     coaches or languages;
+   - use only explicit Receipt evidence to offer one concise continuation
+     focus;
+   - when no matching Receipt exists, say that the session is starting fresh
+     and do not invent prior progress.
+7. After the goal and continuation focus are clear, begin the selected coach's
+   practice flow.
 
 ## During a Voice session
 
-- Begin the selected exercise immediately.
+- After the brief start check, begin the selected exercise immediately.
 - Keep instructions short and voice-friendly.
 - Ask or play one item at a time.
 - Let the learner do most of the speaking.

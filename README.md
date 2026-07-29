@@ -41,7 +41,9 @@ session 測試才能升級為 active。
 3. 把 repo 根目錄設為具有本機檔案寫入權限的 Codex Local Project。
 4. 開一個全新的 Voice task。
 5. 說出上表其中一個啟動指令。
-6. 一般對話結束時說：
+6. Coach 會先簡短確認今天的目標；若已有同一 coach 的 Receipt，會根據
+   最新一份紀錄提出一個接續重點，再開始練習。
+7. 一般對話結束時說：
 
    `I'm finished. Give me my Practice Receipt.`
 

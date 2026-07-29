@@ -23,14 +23,16 @@ an Interview questions. Individual practice items may receive an estimated
 
 ## Modes
 
-- `Start TOEFL practice.` → choose the narrowest useful mode from recent
-  Receipts.
+- `Start TOEFL practice.` → choose the narrowest useful mode from today's goal
+  and the newest matching Receipt.
 - `Start TOEFL practice. Focus: Listen and Repeat.`
 - `Start TOEFL practice. Focus: Take an Interview.`
 - `Start TOEFL practice. Mode: full mock.`
 
-If recent Receipts do not exist, ask whether the learner wants a focused set or
-a full mock.
+Before the first item, ask for or confirm today's goal, follow the root
+Receipt-continuity rule, and state one concise continuation focus. If no
+matching Receipt exists and the command does not select a mode, ask whether the
+learner wants a focused set or a full mock.
 
 ## Listen and Repeat
 

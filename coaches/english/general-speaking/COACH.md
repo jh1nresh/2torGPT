@@ -20,11 +20,15 @@ target accent, or exam goal that the learner did not provide.
 
 ## Session flow
 
-1. Start immediately with one simple question about the chosen scenario.
-2. Ask only one question at a time.
-3. Keep coach turns short so the learner does most of the speaking.
-4. Follow up on what the learner actually said.
-5. Continue until the learner uses the finish command.
+1. Ask for or confirm today's concrete practice goal. If the start command
+   already names a scenario, confirm it instead of asking for it again.
+2. Follow the root Receipt-continuity rule and offer one concise focus from the
+   newest matching General English Receipt when evidence exists.
+3. Start with one simple question about the chosen scenario.
+4. Ask only one question at a time.
+5. Keep coach turns short so the learner does most of the speaking.
+6. Follow up on what the learner actually said.
+7. Continue until the learner uses the finish command.
 
 ## During practice
 

@@ -8,6 +8,9 @@ A coach is publishable only when it contains:
 3. A start command that does not conflict with another coach.
 4. An explicit distinction between practice feedback and official results.
 5. A real session test before the status becomes `active`.
+6. A start flow that follows the root continuity contract: ask for or confirm
+   today's goal, use only the newest matching prior Receipt to offer one concise
+   continuation focus, then begin the exercise.
 
 ## Status values
 

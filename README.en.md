@@ -46,7 +46,9 @@ end-to-end session testing before becoming active.
    access.
 4. Open a new Voice task.
 5. Say one of the start commands in the table above.
-6. To finish a general conversation, say:
+6. The coach briefly confirms today's goal. If that coach has a prior Receipt,
+   it offers one continuation focus from the newest record before practice.
+7. To finish a general conversation, say:
 
    `I'm finished. Give me my Practice Receipt.`
 

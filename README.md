@@ -1,5 +1,8 @@
 # 2torGPT
 
+[繁體中文](README.md) | [简体中文](README.zh-CN.md) |
+[English](README.en.md)
+
 用 GPT Live 練習語言，並把每次練習留下成可追蹤的 Markdown Receipt。
 
 2torGPT 是一個 local-first starter workspace，不是線上課程、官方考試評分
@@ -27,22 +30,22 @@
 | JLPT | reviewed / not session-tested | `Start JLPT practice. Level: N3.` |
 
 `active` 代表 coach 已經有完整練習與 Receipt 規則；不代表它能提供官方
-考試成績。其餘 coach 已依官方公開格式建立邊界，但仍需要真實語音或題型
-練習後才能升級為 active。
+考試成績。其餘 coach 已依官方公開格式建立邊界，但仍需要真實的端到端
+session 測試才能升級為 active。
 
 ## 三分鐘開始
 
 1. 下載或 clone 這個 repo。
 2. 複製 `LOCAL_PROFILE.example.md` 為 `LOCAL_PROFILE.md`，填入自己的
-   目標；這個檔案不會進 Git。
-3. 把 repo 根目錄設為支援本機檔案寫入的 Codex Local Project。
+   目標；這個私人檔案不會進 Git。
+3. 把 repo 根目錄設為具有本機檔案寫入權限的 Codex Local Project。
 4. 開一個全新的 Voice task。
 5. 說出上表其中一個啟動指令。
 6. 一般對話結束時說：
 
    `I'm finished. Give me my Practice Receipt.`
 
-完成後，Receipt 會寫入 `sessions/`。如果 Voice 對話所在的產品沒有本機
+完成後，Receipt 會寫入 `sessions/`。如果 Voice 所在的產品沒有本機
 資料夾寫入權限，coach 仍可在對話中回傳 Markdown，但使用者需要自行保存。
 
 詳細步驟見 [START_HERE.md](START_HERE.md)。
@@ -75,7 +78,7 @@ coaches/
 
 新增 coach 時遵守
 [Coach Pack Contract](docs/COACH_PACK_CONTRACT.md)，不要只換語言名稱便
-宣稱支援新的證照。
+宣稱支援新的語言或證照。
 
 ## 重要邊界
 

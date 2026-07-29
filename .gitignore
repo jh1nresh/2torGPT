@@ -1,0 +1,7 @@
+.DS_Store
+.obsidian/
+LOCAL_PROFILE.md
+
+sessions/*.md
+!sessions/README.md
+!sessions/example.md

@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    uses: jh1nresh/.github/.github/workflows/docs-ci.yml@0cb6fd5b730ced897c767d1c9979aba4e49d201d
+    with:
+      validator-kind: python
+      validator-path: scripts/validate_repo.py
+      job-key: 2torgpt-coach-packs
+      timeout-minutes: 10
